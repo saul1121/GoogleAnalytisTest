@@ -1,0 +1,7 @@
+<resources>
+    <string name="ga_trackingId">UA-75414547-1</string>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+
+</resources>
+

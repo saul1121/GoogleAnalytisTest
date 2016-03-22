@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleAnalytisTest</string>
+
+
+    <string name="title_activity_next_screen">Next Screen</string>
+    <string name="my_fragment">This is a Fragment! Tap Fragment Button again to remove this Fragment from this Activity</string>
+    <string name="categoryId">Purchase</string>
+    <string name="actionId">Buy Tickets</string>
+    <string name="labelId">Buy Tickets Button Pressed!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
